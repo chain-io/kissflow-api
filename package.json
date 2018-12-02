@@ -1,5 +1,5 @@
 {
-  "name": "kissflow-api",
+  "name": "@chainio/kissflow-api",
   "version": "0.0.1",
   "description": "KiSSFLOW API Wrapper",
   "repository": "https://github.com/chain-io/kissflow-api",
