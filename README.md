@@ -42,7 +42,7 @@ Returns `true` if API responds with message below or false for any other respons
 
 ```json
 {
-  success: "All O.K."
+  "success": "All O.K."
 }
 ```
 
