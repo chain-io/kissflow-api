@@ -1,0 +1,18 @@
+{
+  "name": "kissflow-api",
+  "version": "0.0.1",
+  "description": "KiSSFLOW API Wrapper",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Chain.io",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^23.6.0"
+  },
+  "dependencies": {
+    "request": "^2.88.0",
+    "request-promise-native": "^1.0.5"
+  }
+}
