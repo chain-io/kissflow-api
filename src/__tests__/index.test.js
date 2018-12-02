@@ -5,7 +5,8 @@ describe('index', () => {
     expect(Object.keys(index)).toEqual([
       'verify',
       'processes',
-      'requests'
+      'requests',
+      'createRequest'
     ])
     Object.keys(index).forEach((fName) => {
       expect(typeof(index[fName])).toEqual('function')
