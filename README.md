@@ -2,7 +2,7 @@
 
 API Wrapper for [KiSSFLOW](https://help.kissflow.com/tips-and-tricks/api-documentation/rest-api-points)
 
-** NOTE THAT THIS IS NOT FEATUE COMPLETE ** Pull requests welcome.
+**NOTE THAT THIS IS NOT FEATUE COMPLETE** Pull requests welcome.
 
 # Usage
 
