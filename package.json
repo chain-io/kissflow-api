@@ -2,6 +2,7 @@
   "name": "kissflow-api",
   "version": "0.0.1",
   "description": "KiSSFLOW API Wrapper",
+  "repository": "https://github.com/chain-io/kissflow-api",
   "main": "src/index.js",
   "scripts": {
     "test": "jest"
